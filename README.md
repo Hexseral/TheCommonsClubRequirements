@@ -1,2 +1,3 @@
-# TheCommonsClubRequirements
-A place that holds all my documents created during the mock requirements elicitation during my CEN 3073 Business Analysis Project
+# CEN 3073 Business Analysis Project (The Commons Club)
+
+During my time taking Requirements Engineering & Analysis, I worked closely with my sponsor The Commons Beach Club on a mock project to experience what it feels like to be a true business analyst.  I worked on creating multiple major documents that companies produce before starting development, to ensure the success of the project. I created a Business Requirements Specification, a Software Requirements Document, and a Software Requirements Specification. During my time working with my sponsor, I learned things such as eliciting requirements, creating requirements, prototyping, and the overall purpose of the software-based solution.  While I never ended up developing the software from these documents the experience prepared me with the understanding of how to work with clients in my future career. 
